@@ -29,15 +29,16 @@
 ### Full-stack Developer, Distributed Derivatives Assoc (Ethereum financial trading platform)
 
 - Refactored client of Ethereum DApp to manage state using React, Redux, and Solidity
-  TECHNICAL SKILLS
-  React, Redux/Saga, ES6, GitHub, JIRA, NodeJS, Express, MongoDB, SASS, Webpack
-  Docker, Redis, Continuous Integration/Delivery, Testing, JWT, OAuth
+
+### _TECHNICAL SKILLS_
+
+React, Redux/Saga, ES6, GitHub, JIRA, NodeJS, Express, MongoDB, SASS, Webpack, Docker, Redis, Continuous Integration/Delivery, Testing, JWT, OAuth
 
 ### _EDUCATION_
 
 ### Web Development/Computer Science Coursework, Udemy.com
 
-- Earned Certificates for 2 9 online courses with emphasis on React and MERN stack
+- Earned Certificates for 29 online courses with emphasis on React and MERN stack
 
 ### J.D. in Law, University of Washington, Seattle, WA
 
