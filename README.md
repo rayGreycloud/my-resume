@@ -3,7 +3,7 @@
 | React/JavaScript Developer |     |     Eugene, Oregon USA |
 | -------------------------- | :-: | ---------------------: |
 | raygreycloud.com           |     | raygreycloud@gmail.com |
-| github.com/rayGreycloud    |     |        +1 503 737 9866 |
+| github.com/rayGreycloud    |     |         |
 
 ### _RECENT PROJECTS_
 
